@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "A starter project for running machine learning models in the cloud with Replicate.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mattrothenberg",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "replicate": "^0.21.1"
+  }
+}
