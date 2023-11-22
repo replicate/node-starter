@@ -5,7 +5,7 @@
   "description": "A starter project for running machine learning models in the cloud with Replicate.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "predict": "node index.js"
   },
   "author": "mattrothenberg",
   "license": "MIT",
